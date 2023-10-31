@@ -1,0 +1,32 @@
+.container{
+    background-color: rgb(192, 193, 194);
+    width: 200px;
+    margin-left: 40%;
+    padding-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    border-radius: 10%;
+    
+    
+}
+input{
+    width: 50px;
+    margin-right: 15px;
+    border: 0px;
+    border-radius: 5%;
+    
+}
+.oper{
+    background-color: rgb(129, 133, 146);
+    color: aliceblue;
+   
+}
+.res{
+    background-color: rgb(170, 166, 166);
+    height: 20px;
+    width: 110px;
+}
+#back{
+   
+}
